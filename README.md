@@ -1,2 +1,33 @@
-# GRC-in-a-Box
+# GRC-in-a-Box Toolkit – ISO 27001 Starter Kit
+
 This repository is a practical, open-source "GRC in a Box" toolkit designed for small teams, junior consultants, or startups building out their compliance and governance practices.
+
+## 🔍 What's Included
+
+- ✅ Ready-to-use Information Security Policies
+- 📋 Risk Register Template (Excel + Markdown)
+- 🚨 Incident Response Plan + Workflow Diagram
+- 🔄 Onboarding & Offboarding Security Checklists
+- 📄 Policy Acknowledgement Form
+- 📘 ISO 27001 Internal Audit Preparation Guide
+
+## 💡 Who It's For
+
+- Junior GRC & cybersecurity consultants
+- ISO 27001 beginners
+- Startups & small IT/security teams
+- Anyone preparing for a basic internal audit
+
+## 📥 How to Use
+
+1. Clone the repo or download ZIP.
+2. Edit the Markdown/DOCX files as needed.
+3. Integrate into your internal documentation or training.
+
+## 📬 Feedback Welcome
+
+Open to contributions or feedback. Feel free to fork or open an issue!
+
+---
+
+🔐 Made with Love by [Saber Boukhriss](https://boukhrisssaber.tn) – Junior Cybersecurity Consultant

@@ -1,3 +1,6 @@
+![GRC Toolkit Logo](logo/GRC-Logo.png)
+
+
 # GRC-in-a-Box Toolkit – ISO 27001 Starter Kit
 
 This repository is a practical, open-source "GRC in a Box" toolkit designed for small teams, junior consultants, or startups building out their compliance and governance practices.

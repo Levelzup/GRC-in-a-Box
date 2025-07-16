@@ -18,11 +18,22 @@ This repository is a practical, open-source "GRC in a Box" toolkit designed for 
 - Startups & small IT/security teams
 - Anyone preparing for a basic internal audit
 
+## 🧩 Template Types
+
+To support all types of users, we include:
+
+1. **Core Templates**: Editable starter templates you can directly use.
+2. **Reference Library**: Publicly available templates from well-known sources.
+3. **Contributed Templates**: Community-built examples, alternative formats, or more advanced tools.
+
+Have something better? Feel free to fork and submit your own version under `contributed-templates/`.
+
 ## 📥 How to Use
 
 1. Clone the repo or download ZIP.
 2. Edit the Markdown/DOCX files as needed.
 3. Integrate into your internal documentation or training.
+
 
 ## 📬 Feedback Welcome
 

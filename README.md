@@ -1,4 +1,4 @@
-![GRC Toolkit Logo](logo/GRC-Logo.png)
+![GRC Toolkit Logo](Logo/GRC-Logo.png)
 
 
 # GRC-in-a-Box Toolkit – ISO 27001 Starter Kit

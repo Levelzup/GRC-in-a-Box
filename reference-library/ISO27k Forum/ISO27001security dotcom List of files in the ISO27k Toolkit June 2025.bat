@@ -1,0 +1,1 @@
+dir /b > "List of files in this folder.txt"

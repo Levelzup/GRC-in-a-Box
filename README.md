@@ -4,6 +4,7 @@
 
 
 This repository is a practical, open-source "GRC in a Box" toolkit designed for small teams, junior consultants, or startups building out their compliance and governance practices.
+
 [![GitHub issues](https://img.shields.io/github/issues/boukhrisssaber/GRC-in-a-Box.svg)](https://github.com/boukhrisssaber/GRC-in-a-Box/issues)
 [![GitHub forks](https://img.shields.io/github/forks/boukhrisssaber/GRC-in-a-Box.svg)](https://github.com/boukhrisssaber/GRC-in-a-Box/network)
 [![GitHub stars](https://img.shields.io/github/stars/boukhrisssaber/GRC-in-a-Box.svg)](https://github.com/boukhrisssaber/GRC-in-a-Box/stargazers)

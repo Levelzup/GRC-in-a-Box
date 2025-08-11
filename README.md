@@ -8,7 +8,6 @@ This repository is a practical, open-source "GRC in a Box" toolkit designed for 
 [![GitHub issues](https://img.shields.io/github/issues/Levelzup/GRC-in-a-Box.svg)](https://github.com/Levelzup/GRC-in-a-Box/issues)
 [![GitHub forks](https://img.shields.io/github/forks/Levelzup/GRC-in-a-Box.svg)](https://github.com/Levelzup/GRC-in-a-Box/network)
 [![GitHub stars](https://img.shields.io/github/stars/Levelzup/GRC-in-a-Box.svg)](https://github.com/Levelzup/GRC-in-a-Box/stargazers)
-[![GitHub license](https://img.shields.io/github/license/Levelzup/GRC-in-a-Box.svg)](https://github.com/Levelzup/GRC-in-a-Box/blob/main/LICENSE.md)
 
 ## 🔍 What's Included
 
@@ -49,4 +48,4 @@ Open to contributions or feedback. Feel free to fork or open an issue!
 
 ---
 
-🔐 Made with Love by [Saber Boukhriss](https://Levelzup.tn) – Junior Cybersecurity Consultant
+🔐 Made with Love by [Levelzup.pro](https://www.levelzup.pro) – Elevate Every Endeavor
